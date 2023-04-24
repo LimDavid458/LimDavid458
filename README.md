@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bojour 👋
+
+Développeur web récemment diplômé, je cherche un emploi afin de solidifier mes acquis dans des projets professionnels.
 
 <!--
 **LimDavid458/LimDavid458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Languages and Tools
+## Tech
 
 <p>
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
