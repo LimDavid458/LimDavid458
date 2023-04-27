@@ -1,4 +1,4 @@
-### Bojour 👋
+# Bonjour 👋
 
 Développeur web récemment diplômé, je cherche un emploi afin de solidifier mes acquis dans des projets professionnels.
 
@@ -26,5 +26,10 @@ Here are some ideas to get you started:
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </p>
 
-          
+## Projets personnels
+
+* Demon Slayer animation transition with GreenSock
+ 
+![DemonSlayerGif](https://user-images.githubusercontent.com/107931871/234905201-831261e6-d5be-4fbb-8c1c-d2aef153df82.gif)
+
           
