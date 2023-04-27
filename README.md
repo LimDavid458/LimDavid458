@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Projets personnels
 
-* Demon Slayer animation transition with GreenSock
+* Demon Slayer animation de transition avec GreenSock
  
 ![DemonSlayerGif](https://user-images.githubusercontent.com/107931871/234905201-831261e6-d5be-4fbb-8c1c-d2aef153df82.gif)
 
